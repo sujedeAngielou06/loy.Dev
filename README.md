@@ -3,7 +3,7 @@
 <div style="max-width:720px;margin:0 auto 1.5rem auto;background:rgba(15,23,42,0.92);border:1px solid rgba(148,163,184,0.22);border-radius:16px;padding:2rem 2.25rem;box-shadow:0 25px 50px -12px rgba(0,0,0,0.35);text-align:left;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#e2e8f0;">
 
 <h1 style="margin:0 0 0.35rem;font-size:1.75rem;font-weight:700;letter-spacing:-0.02em;">
-  Hi, I'm <span style="color:#38bdf8;">Your Name</span> 👋
+  Hi, I'm <span style="color:#38bdf8;">Loy Dev</span> 👋
 </h1>
 
 <p style="margin:0 0 1.75rem;color:#94a3b8;font-size:0.95rem;line-height:1.5;">
